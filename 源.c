@@ -1,8 +1,8 @@
 
 #include <stdio.h>
 
-int main()//Ö÷º¯Êı-³ÌĞòµÄÈë¿Ú-mainº¯ÊıÓĞÇÒÖ»ÓĞÒ»¸ö
+int main()//ä¸»å‡½æ•°-ç¨‹åºçš„å…¥å£-mainå‡½æ•°æœ‰ä¸”åªæœ‰ä¸€ä¸ª
 {
-	printf("hello hawaii\n");
-	return 0;//mainº¯Êıµ÷ÓÃ·µ»ØÒ»¸öÕûĞÍ0
+	printf("hello world\n");
+	return 0;//mainå‡½æ•°è°ƒç”¨è¿”å›ä¸€ä¸ªæ•´å‹0
 }
